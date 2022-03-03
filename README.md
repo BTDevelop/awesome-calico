@@ -18,6 +18,7 @@ A curated list of Project Calico related tools, frameworks and articles.
     - [Labs](#labs)
     - [Community Repositories](#community-repositories)
     - [Community](#community)
+    - [Contribute](#contribute)
 
 ### Official Projects
 
@@ -66,3 +67,6 @@ A curated list of Project Calico related tools, frameworks and articles.
 
 - [Slack](calicousers.slack.com)
 - [Twitter](https://twitter.com/projectcalico)
+
+### Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
